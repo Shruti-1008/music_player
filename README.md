@@ -99,3 +99,16 @@ This means no database or backend is required.
 3. Open index.html.
 4. Run the project using Live Server.
 5. Explore the music player.
+
+## 🔮 Future Improvements:
+
+🎵 Add real audio playback
+🎚️ Volume control
+⏱️ Song duration display
+🎼 Create custom playlists
+🔀 Shuffle mode
+🔁 Repeat mode
+🎤 Lyrics section
+🌙 More themes
+🎚️ Equalizer visualization
+📱 Mobile music-player controls
