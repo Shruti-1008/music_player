@@ -80,4 +80,12 @@ The main dashboard contains:
 
 Browse the complete collection of songs and search for specific songs or artists.
 
+## ❤️ Favorites
+
+View songs that have been added to your favorites.
+
+Favorites are stored in the browser using localStorage, so they remain available after refreshing the page.
+
+## 💾 LocalStorage
+
 
