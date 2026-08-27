@@ -70,8 +70,14 @@ Melodify uses a dark music-inspired aesthetic featuring:
 
 The main dashboard contains:
 
-Personalized welcome section
-Song search
-Recently played songs
-Music player
-Navigation
+`Personalized welcome section
+`Song search
+`Recently played songs
+`Music player
+`Navigation
+
+## 🎵 Playlist
+
+Browse the complete collection of songs and search for specific songs or artists.
+
+
