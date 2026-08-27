@@ -15,3 +15,10 @@ It features a dark, glassmorphism-inspired interface with purple and pink gradie
 - 💜 Purple & pink gradient theme
 - 📱 Responsive design
 - 📄 Multiple pages
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- LocalStorage
