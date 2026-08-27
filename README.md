@@ -92,3 +92,10 @@ Melodify uses browser localStorage to store favorite songs.
 
 This means no database or backend is required.
 
+## 🚀 How to Run:
+
+1.Clone this repository.
+Open the project in VS Code.
+Open index.html.
+Run the project using Live Server.
+Explore the music player.
