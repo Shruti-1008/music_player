@@ -15,7 +15,7 @@ It features a dark, glassmorphism-inspired interface with purple and pink gradie
 - 💜 Purple & pink gradient theme
 - 📱 Responsive design
 - 📄 Multiple pages
-
+im stron
 
 ## 🛠️ Technologies Used:
 
@@ -25,7 +25,7 @@ It features a dark, glassmorphism-inspired interface with purple and pink gradie
 - JavaScript
 - LocalStorage
 ```
-
+jbf
 ## 📁 Project Structure:
 
 ```text
