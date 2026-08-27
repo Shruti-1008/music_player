@@ -64,7 +64,7 @@ Melodify uses a dark music-inspired aesthetic featuring:
 🌙 Late-night visual theme
 
 
-## 🎶 Pages
+## 🎶 Pages:
 
 🏠 Home
 
@@ -76,16 +76,19 @@ The main dashboard contains:
 `Music player
 `Navigation
 
-## 🎵 Playlist
+## 🎵 Playlist:
 
 Browse the complete collection of songs and search for specific songs or artists.
 
-## ❤️ Favorites
+## ❤️ Favorites:
 
 View songs that have been added to your favorites.
 
 Favorites are stored in the browser using localStorage, so they remain available after refreshing the page.
 
-## 💾 LocalStorage
+## 💾 LocalStorage:
 
+Melodify uses browser localStorage to store favorite songs.
+
+This means no database or backend is required.
 
