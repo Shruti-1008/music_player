@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Melodify 🎧</title>
+
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/player.css">
+    <link rel="stylesheet" href="css/responsive.css">
+</head>
+
+<body>
+
+<header class="navbar">
+
+    <a href="index.html" class="logo">
+        🎧 Melodify
+    </a>
+
+    <nav>
+        <a class="active" href="index.html">Home</a>
+        <a href="pages/playlist.html">Playlist</a>
+        <a href="pages/favorites.html">♡ Favorites</a>
+    </nav>
+
+</header>
+
+
+<main class="container">
+
+    <section class="hero">
+
+        <div>
+
+            <p class="eyebrow">
+                YOUR PERSONAL SOUNDTRACK
+            </p>
+
+            <h1>
+                Music for<br>
+                every mood. ✨
+            </h1>
+
+            <p class="hero-text">
+                Discover your favorite sounds,
+                create playlists, and enjoy every moment.
+            </p>
+
+            <a href="pages/playlist.html" class="primary-btn">
+                Explore Music
+            </a>
+
+        </div>
+
+
+        <div class="hero-music">
+            🎧
+        </div>
+
+    </section>
+
+
+    <!-- SEARCH -->
+
+    <section class="section">
+
+        <div class="search">
+
+            🔍
+
+            <input
+                type="text"
+                id="searchInput"
+                placeholder="Search songs or artists..."
+            >
+
+        </div>
+
+    </section>
+
+
+    <!-- SONGS -->
+
+    <section class="section">
+
+        <div class="section-heading">
+
+            <div>
+                <p class="eyebrow">
+                    FOR YOU
+                </p>
+
+                <h2>
+                    Recently Played
+                </h2>
+            </div>
+
+        </div>
+
+
+        <div id="songList" class="song-grid">
+
+            <!-- JavaScript adds songs -->
+
+        </div>
+
+    </section>
+
+
+    <!-- PLAYER -->
+
+    <section class="section">
+
+        <div class="player-card">
+
+            <div class="album-cover" id="albumCover">
+                🌙
+            </div>
+
+
+            <div class="song-info">
+
+                <h2 id="songTitle">
+                    Midnight Dreams
+                </h2>
+
+                <p id="artistName">
+                    Melodify Artist
+                </p>
+
+            </div>
+
+
+            <div class="progress-container">
+
+                <input
+                    type="range"
+                    class="progress"
+                    id="progress"
+                    value="0"
+                    min="0"
+                    max="100"
+                >
+
+            </div>
+
+
+            <div class="controls">
+
+                <button
+                    class="control-btn"
+                    id="prevBtn"
+                >
+                    ⏮
+                </button>
+
+
+                <button
+                    class="play-btn"
+                    id="playBtn"
+                >
+                    ▶
+                </button>
+
+
+                <button
+                    class="control-btn"
+                    id="nextBtn"
+                >
+                    ⏭
+                </button>
+
+            </div>
+
+        </div>
+
+    </section>
+
+</main>
+
+
+<footer>
+    Made with 🎵 & late-night vibes
+</footer>
+
+
+<script src="js/storage.js"></script>
+<script src="js/player.js"></script>
+<script src="js/app.js"></script>
+
+</body>
+
+</html>
