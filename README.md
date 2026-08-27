@@ -94,8 +94,8 @@ This means no database or backend is required.
 
 ## 🚀 How to Run:
 
-1.Clone this repository.
-Open the project in VS Code.
-Open index.html.
-Run the project using Live Server.
-Explore the music player.
+1. Clone this repository.
+2. Open the project in VS Code.
+3. Open index.html.
+4. Run the project using Live Server.
+5. Explore the music player.
