@@ -51,7 +51,7 @@ melodify/
     └── storage.js
 ```
 
-🎨 Design: 
+## 🎨 Design: 
 
 Melodify uses a dark music-inspired aesthetic featuring:
 
@@ -63,7 +63,8 @@ Melodify uses a dark music-inspired aesthetic featuring:
 🎧 Minimal music-player interface
 🌙 Late-night visual theme
 
-🎶 Pages
+
+## 🎶 Pages
 
 🏠 Home
 
