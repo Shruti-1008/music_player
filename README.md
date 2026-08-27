@@ -1,4 +1,4 @@
-# 🎧 Melodify — Aesthetic Music Player !
+# 🎧 Melodify — Aesthetic Music Player 
 
 It features a dark, glassmorphism-inspired interface with purple and pink gradients, song cards, playlists, favorites, and interactive music controls.
 
@@ -15,7 +15,6 @@ It features a dark, glassmorphism-inspired interface with purple and pink gradie
 - 💜 Purple & pink gradient theme
 - 📱 Responsive design
 - 📄 Multiple pages
-im stron
 
 ## 🛠️ Technologies Used:
 
@@ -25,7 +24,7 @@ im stron
 - JavaScript
 - LocalStorage
 ```
-jbf
+
 ## 📁 Project Structure:
 
 ```text
