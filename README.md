@@ -16,11 +16,12 @@ It features a dark, glassmorphism-inspired interface with purple and pink gradie
 - 💜 Purple & pink gradient theme
 - 📱 Responsive design
 - 📄 Multiple pages
+heojdo b
 
-wiugiudlolss
 ## 🛠️ Technologies Used
 ```
 - HTML5
+
 - CSS3
 - JavaScript
 - LocalStorage
