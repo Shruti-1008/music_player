@@ -2,8 +2,6 @@
 
 It features a dark, glassmorphism-inspired interface with purple and pink gradients, song cards, playlists, favorites, and interactive music controls.
 
-87126e89
-kjbc
 
 ## ✨ Features
 
@@ -18,6 +16,8 @@ kjbc
 - 💜 Purple & pink gradient theme
 - 📱 Responsive design
 - 📄 Multiple pages
+- -iuvkbckbb
+- 12
 
 ## 🛠️ Technologies Used
 ```
