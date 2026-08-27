@@ -112,3 +112,15 @@ This means no database or backend is required.
 🌙 More themes
 🎚️ Equalizer visualization
 📱 Mobile music-player controls
+
+## 🎯 Purpose:
+
+This project was created to practice:
+
+HTML page structure
+CSS styling and responsive design
+JavaScript DOM manipulation
+Event handling
+Search functionality
+localStorage
+Multi-page website development
