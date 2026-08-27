@@ -4,7 +4,7 @@ It features a dark, glassmorphism-inspired interface with purple and pink gradie
 
 
 ## ✨ Features
-
+these are the feature
 - 🎵 Browse songs
 - ▶️ Play / pause music interface
 - ⏮️ Previous and next song controls
@@ -19,7 +19,7 @@ It features a dark, glassmorphism-inspired interface with purple and pink gradie
 
 
 ## 🛠️ Technologies Used:
-thrse are
+
 ```
 - HTML
 - CSS3
