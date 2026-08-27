@@ -50,7 +50,8 @@ melodify/
     ├── favorites.js
     └── storage.js
 ```
-🎨 Design
+
+🎨 Design: ihsodi
 
 Melodify uses a dark music-inspired aesthetic featuring:
 
