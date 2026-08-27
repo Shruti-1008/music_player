@@ -62,3 +62,15 @@ Melodify uses a dark music-inspired aesthetic featuring:
 🪟 Glassmorphism cards
 🎧 Minimal music-player interface
 🌙 Late-night visual theme
+
+🎶 Pages
+
+🏠 Home
+
+The main dashboard contains:
+
+Personalized welcome section
+Song search
+Recently played songs
+Music player
+Navigation
