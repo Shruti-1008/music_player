@@ -16,9 +16,7 @@ It features a dark, glassmorphism-inspired interface with purple and pink gradie
 - 💜 Purple & pink gradient theme
 - 📱 Responsive design
 - 📄 Multiple pages
-- -iuvkbckbb
-- 12
-
+<>iuhiodh<>
 ## 🛠️ Technologies Used
 ```
 - HTML5
