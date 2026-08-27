@@ -14,7 +14,6 @@ It features a dark, glassmorphism-inspired interface with purple and pink gradie
 - 🎨 Dark aesthetic UI
 - 💜 Purple & pink gradient theme
 - 📱 Responsive design
-- pack my dirhihif
 - 📄 Multiple pages
 
 
