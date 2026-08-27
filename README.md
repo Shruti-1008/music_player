@@ -124,3 +124,7 @@ Event handling
 Search functionality
 localStorage
 Multi-page website development
+
+## 👩‍💻 Author:
+
+Built as a front-end development project.
