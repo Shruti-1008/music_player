@@ -2,9 +2,8 @@
 
 It features a dark, glassmorphism-inspired interface with purple and pink gradients, song cards, playlists, favorites, and interactive music controls.
 
+## ✨ Features:
 
-## ✨ Features
-these are the feature
 - 🎵 Browse songs
 - ▶️ Play / pause music interface
 - ⏮️ Previous and next song controls
@@ -27,7 +26,7 @@ these are the feature
 - LocalStorage
 ```
 
-## 📁 Project Structure
+## 📁 Project Structure:
 
 ```text
 melodify/
