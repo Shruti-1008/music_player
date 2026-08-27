@@ -1,0 +1,309 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background:
+        radial-gradient(circle at 15% 20%, #24143d 0%, transparent 30%),
+        radial-gradient(circle at 85% 80%, #32152f 0%, transparent 30%),
+        #09090d;
+    color: #f5f5f7;
+    min-height: 100vh;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+/* NAVBAR */
+
+.navbar {
+    height: 75px;
+    padding: 0 6%;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    background: rgba(10, 10, 15, 0.75);
+    border-bottom: 1px solid rgba(255,255,255,0.08);
+
+    backdrop-filter: blur(18px);
+
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+
+.logo {
+    font-size: 22px;
+    font-weight: bold;
+
+    background: linear-gradient(
+        90deg,
+        #c084fc,
+        #f472b6
+    );
+
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    gap: 25px;
+
+    color: #9999a6;
+    font-size: 14px;
+}
+
+nav a {
+    transition: 0.25s;
+}
+
+nav a:hover {
+    color: white;
+}
+
+nav .active {
+    color: white;
+}
+
+.add-link {
+    padding: 10px 17px;
+    border-radius: 20px;
+
+    background:
+        linear-gradient(
+            135deg,
+            #8b5cf6,
+            #ec4899
+        );
+
+    color: white !important;
+
+    box-shadow:
+        0 0 20px rgba(168,85,247,0.25);
+}
+
+/* CONTAINER */
+
+.container {
+    width: 1100px;
+    max-width: 90%;
+    margin: auto;
+    padding: 55px 0;
+}
+
+/* HERO */
+
+.hero {
+    min-height: 420px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    padding: 60px;
+
+    border-radius: 32px;
+
+    background:
+        linear-gradient(
+            135deg,
+            rgba(139,92,246,0.16),
+            rgba(236,72,153,0.08)
+        );
+
+    border: 1px solid rgba(255,255,255,0.08);
+
+    box-shadow:
+        0 25px 80px rgba(0,0,0,0.35);
+
+    overflow: hidden;
+}
+
+.eyebrow {
+    font-size: 11px;
+    letter-spacing: 3px;
+
+    color: #a78bfa;
+
+    font-weight: bold;
+
+    margin-bottom: 14px;
+}
+
+.hero h1 {
+    font-family: Georgia, serif;
+
+    font-size: 54px;
+    line-height: 1.1;
+
+    margin-bottom: 20px;
+
+    background:
+        linear-gradient(
+            90deg,
+            #ffffff,
+            #d8b4fe,
+            #f9a8d4
+        );
+
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.hero-text {
+    color: #9999a6;
+
+    max-width: 440px;
+
+    line-height: 1.7;
+
+    margin-bottom: 28px;
+}
+
+.primary-btn {
+    display: inline-block;
+
+    padding: 13px 21px;
+
+    border-radius: 13px;
+
+    border: none;
+
+    color: white;
+
+    cursor: pointer;
+
+    font-weight: bold;
+
+    background:
+        linear-gradient(
+            135deg,
+            #8b5cf6,
+            #ec4899
+        );
+
+    box-shadow:
+        0 10px 30px
+        rgba(168,85,247,0.25);
+
+    transition: 0.25s;
+}
+
+.primary-btn:hover {
+    transform: translateY(-3px);
+
+    box-shadow:
+        0 15px 35px
+        rgba(236,72,153,0.3);
+}
+
+/* MUSIC VISUAL */
+
+.hero-music {
+    width: 260px;
+    height: 260px;
+
+    border-radius: 35px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    font-size: 100px;
+
+    background:
+        linear-gradient(
+            135deg,
+            #7c3aed,
+            #db2777
+        );
+
+    box-shadow:
+        0 0 80px
+        rgba(168,85,247,0.3);
+
+    transform: rotate(5deg);
+}
+
+/* SECTION */
+
+.section {
+    margin-top: 55px;
+}
+
+.section-heading {
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+
+    margin-bottom: 22px;
+}
+
+.section-heading h2 {
+    font-family: Georgia, serif;
+    font-size: 30px;
+}
+
+.section-heading a {
+    color: #a78bfa;
+    font-size: 14px;
+}
+
+/* SEARCH */
+
+.search {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+
+    background:
+        rgba(255,255,255,0.04);
+
+    border:
+        1px solid rgba(255,255,255,0.08);
+
+    border-radius: 15px;
+
+    padding: 14px 18px;
+
+    margin-bottom: 30px;
+}
+
+.search input {
+    flex: 1;
+
+    background: transparent;
+
+    border: none;
+
+    outline: none;
+
+    color: white;
+
+    font-size: 14px;
+}
+
+.search input::placeholder {
+    color: #777783;
+}
+
+/* FOOTER */
+
+footer {
+    text-align: center;
+
+    padding: 35px;
+
+    color: #666673;
+
+    font-size: 13px;
+}
