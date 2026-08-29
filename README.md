@@ -3,6 +3,7 @@
 It features a dark, glassmorphism-inspired interface with purple and pink gradients, song cards, playlists, favorites, and interactive music controls.
 
 ## ✨ Features:-
+iugfvibfiv
 - 🎵 Browse songs
 - ▶️ Play / paus
 - e music interface
@@ -18,7 +19,7 @@ It features a dark, glassmorphism-inspired interface with purple and pink gradie
 
 ## 🛠️ Technologies Used:-
 
-```
+```vf
 - HTML
 - CSS3
 - JavaScript
