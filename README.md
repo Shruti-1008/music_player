@@ -62,7 +62,6 @@ Melodify uses a dark music-inspired aesthetic featuring:
 🎧 Minimal music-player interface
 🌙 Late-night visual theme
 
--Late night
 
 ## 🎶 Pages:
 
@@ -76,23 +75,23 @@ The main dashboard contains:
 `Music player
 `Navigation
 
-## 🎵 Playlist:
+## 🎵 Playlist:-
 
 Browse the complete collection of songs and search for specific songs or artists.
 
-## ❤️ Favorites:
+## ❤️ Favorites:-
 
 View songs that have been added to your favorites.
 
 Favorites are stored in the browser using localStorage, so they remain available after refreshing the page.
 
-## 💾 LocalStorage:
+## 💾 LocalStorage:-
 
 Melodify uses browser localStorage to store favorite songs.
 
 This means no database or backend is required.
 
-## 🚀 How to Run:
+## 🚀 How to Run:-
 
 1. Clone this repository.
 2. Open the project in VS Code.
@@ -100,7 +99,7 @@ This means no database or backend is required.
 4. Run the project using Live Server.
 5. Explore the music player.
 
-## 🔮 Future Improvements:
+## 🔮 Future Improvements:-
 
 🎵 Add real audio playback
 🎚️ Volume control
@@ -113,7 +112,7 @@ This means no database or backend is required.
 🎚️ Equalizer visualization
 📱 Mobile music-player controls
 
-## 🎯 Purpose:
+## 🎯 Purpose:-
 
 This project was created to practice:
 
