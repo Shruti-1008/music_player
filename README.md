@@ -17,6 +17,17 @@
 - 📱 Responsive design
 - 📄 Multiple pages
 
+## 💜 UI & Design
+
+🖤 Dark-themed interface
+💜 Purple and pink gradient palette
+🪟 Glassmorphism cards
+✨ Glowing hover effects
+🎨 Modern typography
+🌙 Late-night music aesthetic
+📱 Responsive layout
+🎵 Music-themed icons and components
+🖱️ Interactive buttons and cards
 ## 🛠️ Technologies Used:-
 
 ```
