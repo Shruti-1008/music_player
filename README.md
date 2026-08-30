@@ -1,7 +1,7 @@
 # 🎧 Melodify — Aesthetic Music Player 
 
 It features a dark, glassmorphism-inspired interface with purple and pink gradients, song cards, playlists, favorites, and interactive music controls.
-nononononoon
+
 ## ✨ Features:-
 
 - 🎵 Browse songs
@@ -9,7 +9,7 @@ nononononoon
 - e music interface
 - ⏮️ Previous and next song controls
 - 📊 Interactive progress bar
-- 🔍 Search songs and artists
+- 🔍 Search songs and artists.......
 - ❤️ Add songs to favorites
 - 💾 Favorites saved using localStorage
 - 🎨 Dark aesthetic UI
