@@ -6,7 +6,7 @@
 
 - 🎵 Browse songs
 - ▶️ Play / pause 21321111
-- e music interface1111
+- e music interface
 - ⏮️ Previous and next song controls
 - 📊 Interactive progress bar
 - 🔍 Search songs and artists
