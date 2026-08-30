@@ -2,8 +2,8 @@
 
 🎶 A modern, dark-themed music player built with HTML, CSS, and JavaScript, featuring a glassmorphism UI, purple-pink gradients, playlists, favorites, search, and interactive music controls.
 
-## ✨ Features:- 234
-234
+## ✨ Features:- 23
+
 - 🎵 Browse songs
 - ▶️ Play / pause 
 - ⏮️ Previous and next song controls
