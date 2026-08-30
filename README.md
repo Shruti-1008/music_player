@@ -20,6 +20,7 @@
 ## 💜 UI & Design:-
 
 🖤 Dark-themed interface
+vibe aetsheyicic
 💜 Purple and pink gradient palette
 🪟 Glassmorphism cards
 ✨ Glowing hover effects
