@@ -16,7 +16,7 @@ It features a dark, glassmorphism-inspired interface with purple and pink gradie
 - 💜 Purple & pink gradient theme
 - 📱 Responsive design
 - 📄 Multiple pages
-mknknd
+
 ## 🛠️ Technologies Used:-
 
 ```
