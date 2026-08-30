@@ -17,7 +17,7 @@
 - 📱 Responsive design
 - 📄 Multiple pages
 
-## 💜 UI & Design
+## 💜 UI & Design:-
 
 🖤 Dark-themed interface
 💜 Purple and pink gradient palette
@@ -28,6 +28,7 @@
 📱 Responsive layout
 🎵 Music-themed icons and components
 🖱️ Interactive buttons and cards
+
 ## 🛠️ Technologies Used:-
 
 ```
