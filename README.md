@@ -5,7 +5,7 @@
 ## ✨ Features:- 
 
 - 🎵 Browse songs
-- ▶️ Play / pause 2133244238973242343244
+- ▶️ Play / pause 21332442389732423432
 - e music interface
 - ⏮️ Previous and next song controls
 - 📊 Interactive progress bar
