@@ -1,5 +1,5 @@
 # 🎧 Melodify — Aesthetic Music Player 
-bkjoihiob
+
 It features a dark, glassmorphism-inspired interface with purple and pink gradients, song cards, playlists, favorites, and interactive music controls.
 
 ## ✨ Features:-
@@ -53,7 +53,7 @@ melodify/
 
 ## 🎨 Design:-
 
-Melodify uses a dark music-inspired aesthetic featuring:
+Melodify uses a dark music-inspired aesthetic featuring:-
 
 🖤 Dark backgrounds
 💜 Purple gradients
