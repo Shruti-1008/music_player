@@ -9,14 +9,14 @@ It features a dark, glassmorphism-inspired interface with purple and pink gradie
 - e music interface
 - ⏮️ Previous and next song controls
 - 📊 Interactive progress bar
-- 🔍 Search songs and artists.......
+- 🔍 Search songs and artists
 - ❤️ Add songs to favorites
 - 💾 Favorites saved using localStorage
 - 🎨 Dark aesthetic UI
 - 💜 Purple & pink gradient theme
 - 📱 Responsive design
 - 📄 Multiple pages
-
+mknknd
 ## 🛠️ Technologies Used:-
 
 ```
