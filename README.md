@@ -1,4 +1,4 @@
-# 🎧 Melodify — Aesthetic Music Player uib
+# 🎧 Melodify — Aesthetic Music Player uibshow
 
 🎶 A modern, dark-themed music player built with HTML, CSS, and JavaScript, featuring a glassmorphism UI, purple-pink gradients, playlists, favorites, search, and interactive music controls.
 
