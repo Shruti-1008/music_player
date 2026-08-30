@@ -3,7 +3,7 @@
 It features a dark, glassmorphism-inspired interface with purple and pink gradients, song cards, playlists, favorites, and interactive music controls.
 
 ## ✨ Features:-
-sevene
+
 - 🎵 Browse songs
 - ▶️ Play / paus
 - e music interface
@@ -15,6 +15,7 @@ sevene
 - 🎨 Dark aesthetic UI
 - 💜 Purple & pink gradient theme
 - 📱 Responsive design
+- very coolio
 - 📄 Multiple pages
 
 ## 🛠️ Technologies Used:-
