@@ -1,9 +1,9 @@
-# 🎧 Melodify — Aesthetic Music Player 
+# 🎧 Melodify — Aesthetic Music Player ihoigg
 
 🎶 A modern, dark-themed music player built with HTML, CSS, and JavaScript, featuring a glassmorphism UI, purple-pink gradients, playlists, favorites, search, and interactive music controls.
 
 ## ✨ Features:- 
-yiyiiyy
+yi
 - 🎵 Browse songs
 - ▶️ Play / paus
 - e music interface
